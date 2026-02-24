@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-/*------------Basic Incoder 2026 MIT License------------*/
+/*------------Basic Encoder 2026 Apache License 2.0------------*/
 
 
 int Encoder(FILE *file){
@@ -67,5 +67,6 @@ int main(){
     }
     fclose(input_file);
     return 0;
+
 
 }
