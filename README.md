@@ -1,4 +1,4 @@
 ---
 Compilation
-<pre>gcc Encoder.c -o Encoder.exe -s -O2</pre>
+<pre>gcc main.c -o Encoder.exe -s -O2</pre>
 ---
