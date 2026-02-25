@@ -1,5 +1,5 @@
 ---
-How to use <br>
+How to use <br> <br>
 Encode file 
 <pre>./Encoder.exe "file-path" e </pre> <br>
 Unencode file 
