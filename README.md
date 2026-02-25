@@ -1,11 +1,11 @@
 ---
-How to use
+How to use <br>
 Encode file 
-<pre>./Encoder.exe "file-path" e </pre> 
+<pre>./Encoder.exe "file-path" e </pre> <br>
 Unencode file 
-<pre>./Encoder.exe "file-path" u</pre> 
+<pre>./Encoder.exe "file-path" u</pre> <br>
 
 ---
-Compilation
+Compilation<br>
 <pre>gcc main.c -o Encoder.exe -s -O2</pre>
 ---
