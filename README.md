@@ -1,7 +1,9 @@
 ---
 How to use
-Encode file <pre>./Encoder.exe <file-path> e </pre> 
-Unencode file <pre>./Encoder.exe <file-path> u</pre> 
+Encode file 
+<pre>./Encoder.exe "file-path" e </pre> 
+Unencode file 
+<pre>./Encoder.exe "file-path" u</pre> 
 
 ---
 Compilation
